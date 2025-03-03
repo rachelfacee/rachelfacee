@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@rachelface/30-nites-of-code)  
+  ![@rachelface #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rachelface)
 <!--
 **rachelfacee/rachelfacee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
